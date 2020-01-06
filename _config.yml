@@ -1,23 +1,25 @@
 # site settings
 title: Avril M. Harder
 subtitle: Research
-email: 
+email: avrilharder@gmail.com
 description: PhD candidate in the Christie lab at Purdue University. Interested in evolution and fishes.
-baseurl:  "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author: Avril Harder
-street_address: 915 W. State St.
-city: West Lafayette
-state: IN
-zip_code: 47907
+author:
+street_address: 1234 Somewhere Road
+city: Nashville
+state: TN
+zip_code: 55555
 country: United States of America
-phone: 
+phone: (716) 555-5555
 
 # social settings
 500px_url:
+facebook_url:
 github_url: https://github.com/avril-m-harder
 instagram_url: https://www.instagram.com/avrilmaellen/
-linkedin_url: 
+linkedin_url:
+pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/avrilmharder
 
