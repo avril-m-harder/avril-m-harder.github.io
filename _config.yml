@@ -1,17 +1,17 @@
 # site settings
 title: Avril M. Harder
-subtitle: Research
-email: youremailaddress@gmail.com
+subtitle: - Research
+email: 
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+baseurl: "/research" # the subpath of your site, e.g. /blog
+url: "https://avril-m-harder.github.io" # the base hostname & protocol for your site
+author: Avril Harder
+street_address: 915 W. State St.
+city: West Lafayette
+state: IN
+zip_code: 47907
 country: United States of America
-phone: (716) 555-5555
+phone: 
 
 # social settings
 500px_url:
