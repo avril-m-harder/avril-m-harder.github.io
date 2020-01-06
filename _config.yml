@@ -2,7 +2,7 @@
 title: Avril M. Harder
 subtitle: - Research
 email: 
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: PhD candidate in the Christie lab at Purdue University. Interested in evolution and fishes.
 baseurl: "/research" # the subpath of your site, e.g. /blog
 url: "https://avril-m-harder.github.io" # the base hostname & protocol for your site
 author: Avril Harder
@@ -15,15 +15,11 @@ phone:
 
 # social settings
 500px_url:
-facebook_url:
-github_url: https://github.com/andrewbanchich
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url:
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
+github_url: https://github.com/avril-m-harder
+instagram_url: https://www.instagram.com/avrilmaellen/
+linkedin_url: 
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/avrilmharder
 
 # build settings
 markdown: kramdown
