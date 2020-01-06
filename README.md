@@ -2,8 +2,6 @@
 
 A Jekyll version of the "Massively" theme by [HTML5 UP](https://html5up.net/).
 
-![Massively Theme](assets/images/massively.jpg "Massively Theme")
-
 # How to Use
 
 For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
