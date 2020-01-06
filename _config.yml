@@ -4,7 +4,7 @@ subtitle: - Research
 email: 
 description: PhD candidate in the Christie lab at Purdue University. Interested in evolution and fishes.
 baseurl:  "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://avril-m-harder.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author: Avril Harder
 street_address: 915 W. State St.
 city: West Lafayette
