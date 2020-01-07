@@ -18,7 +18,7 @@ nav-menu: true
 <ul class="actions fit small">
 <!-- 	<li><a href="#" class="button special fit small">Download AMH CV</a></li> -->
 <!-- 	<li><a href="#" class="button fit small">Download AMH CV</a></li> -->
-	<li><a href="#" class="button big">Download AMH CV</a></li>
+	<li><a href="/assets/images/amh_cv.pdf" class="button big">Download AMH CV</a></li>
 </ul>
 </center>
 
