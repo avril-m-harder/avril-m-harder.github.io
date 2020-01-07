@@ -16,7 +16,7 @@ published: true
 		<header class="major">
 			<h2>Antarctic benthos</h2>
 		</header>
-		<p>The benthic creatures of Antarctica's continental shelf have experienced stable environmental conditions since becoming isolated by the formation of the Antarctic Circumpolar Current ~20-40 million years ago. The overall goals of research cruise LMG-13-12 were to (1) document biodiversity present on the shelf before climatic shifts result in significant species and genetic diversity reductions and (2) to test long-standing presumptions such as the population-isolating effects of the Antarctic Circumpolar Current. </p>
+		<p>The benthic creatures of Antarctica's continental shelf have experienced stable environmental conditions since becoming isolated by the formation of the Antarctic Circumpolar Current ~20-40 million years ago. In November 2013, I participated in a research cruise to the western Antarctic Peninsula. While every member of the research crew was interested in a different taxon (e.g., sea spiders, sea stars, brittle stars, nemerteans, to name a few), the unified goals of our team were to (1) document biodiversity present on the shelf before climatic shifts result in significant species and genetic diversity reductions and (2) to test long-standing presumptions such as the population-isolating effects of the Antarctic Circumpolar Current. </p>
 	</div>
 </section>
 
