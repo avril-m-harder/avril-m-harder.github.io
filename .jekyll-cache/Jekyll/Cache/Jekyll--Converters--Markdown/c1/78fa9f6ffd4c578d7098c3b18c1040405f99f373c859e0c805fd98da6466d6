@@ -1,4 +1,4 @@
-I"n<!-- Main -->
+I"<!-- Main -->
 <div id="main" class="alt">
 
 <!-- Content -->
@@ -7,7 +7,7 @@
 <p><li>Purdue University, PhD Biological Sciences (August 2015 - present)<br />
 <li>Central Michigan University, MS Biology (August 2013 - August 2015)<br />
 <li>Eastern Illinois University, BS Biological Sciences (August 2010 - December 2012)<br />
-<li>Olney Central College, AAS (August 2008 - May 2010)<br />
+<li>Olney Central College, AAS (August 2008 - May 2010)</li><br /><br />
 <span class="image fit"><img src="assets/images/waterfront.jpg" alt="" /></span>
 
 
@@ -31,7 +31,7 @@
 <li><strong>Harder AM</strong>, Willoughby JR, Doyle JM. 2018. Peppered moths and the Industrial Revolution: barking up the wrong tree? <a href="http://sciencecases.lib.buffalo.edu/cs/files/moths.pdf"><i>National Center for Case Study Teaching in Science</i></a>.<br /><br /></li>
 
 <li>Willoughby JR, <strong>Harder AM</strong>, Doyle JM. 2018. Fish out of (salt) water: adaptation of an ocean-going fish to freshwater environment. <a href="http://sciencecases.lib.buffalo.edu/cs/files/steelhead_adaptation.pdf"><i>National Center for Case Study Teaching in Science</i></a>.</li></p>
-
+&lt;/ol&gt;
 
 <center>
 <br />
@@ -45,5 +45,5 @@
 
 <span class="image fit"><img src="assets/images/ice.JPG" alt="" /></span>
 
-</li></ol></li></li></li></li></p></ul></div>
+</li></ol></li></li></li></p></ul></div>
 :ET
