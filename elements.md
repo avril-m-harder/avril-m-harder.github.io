@@ -411,6 +411,3 @@ print 'It took ' + i + ' iterations to sort the deck.';
 </div>
 
 </div>
-</section>
-
-</div>
