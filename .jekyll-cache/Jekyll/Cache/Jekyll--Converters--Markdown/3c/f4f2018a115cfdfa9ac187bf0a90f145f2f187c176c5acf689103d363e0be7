@@ -1,4 +1,4 @@
-I"�<!-- Main -->
+I"!<!-- Main -->
 <div id="main" class="alt">
 
 <!-- Content -->
@@ -11,12 +11,13 @@ Olney Central College, AAS (August 2008 - May 2010)</p>
 
 
 <h2 id="content">Publications</h2>
-<p><strong>Harder AM</strong>, Willoughby JR, Ardren WR, and Christie MR. 2019. Among family variation in survival and gene expression uncovers adaptive genetic variation in a threatened fish. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.15334?author_access_token=-XDcx9R46qppwnBPZyABZIta6bR2k8jH0KrdpFOxC66cOyIjtA07Q-qM0QCJqG82HPl1rD93VUm42QPKHBuqiCXLsA6sEeq_6Dh-fYxL_PPFV2d5Ip0Ccf3OL8_7HuK5"><i>Molecular Ecology</i> (in press)</a>.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;Featured as 'From the Cover' article<br /><br />
+<ol>
+<li><p><strong>Harder AM</strong>, Willoughby JR, Ardren WR, and Christie MR. 2019. Among family variation in survival and gene expression uncovers adaptive genetic variation in a threatened fish. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.15334?author_access_token=-XDcx9R46qppwnBPZyABZIta6bR2k8jH0KrdpFOxC66cOyIjtA07Q-qM0QCJqG82HPl1rD93VUm42QPKHBuqiCXLsA6sEeq_6Dh-fYxL_PPFV2d5Ip0Ccf3OL8_7HuK5"><i>Molecular Ecology</i> (in press)</a>.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;Featured as a 'From the Cover' article<br /><br />&lt;/li&gt;
 
-Yin X, Martinez AS, Perkins A, Sparks MM, <strong>Harder AM</strong>, Willoughby JR, Sepúlveda MS, and Christie MR. Incipient resistance to an effective pesticide results from genetic adaptation and the canalization of gene expression. <a href="https://www.biorxiv.org/content/10.1101/2019.12.19.882860v1"><i>bioRxiv</i> 882860</a><br /><br />
+<li>Yin X, Martinez AS, Perkins A, Sparks MM, <strong>Harder AM</strong>, Willoughby JR, Sepúlveda MS, and Christie MR. Incipient resistance to an effective pesticide results from genetic adaptation and the canalization of gene expression. <a href="https://www.biorxiv.org/content/10.1101/2019.12.19.882860v1"><i>bioRxiv</i> 882860 (submitted)</a><br /><br /></li>
 
-<strong>Harder AM</strong>, Ardren WR, Evans AN, Futia MH, Kraft CE, Marsden JE, Richter CA, Rinchard J, Tillitt DE, and Christie MR. 2018. Thiamine deficiency in fishes: causes, consequences, and potential solutions. <a href="https://link.springer.com/article/10.1007%2Fs11160-018-9538-x"><i>Reviews in Fish Biology and Fisheries</i> 28:865-886</a>.<br /><br />
+<li><strong>Harder AM</strong>, Ardren WR, Evans AN, Futia MH, Kraft CE, Marsden JE, Richter CA, Rinchard J, Tillitt DE, and Christie MR. 2018. Thiamine deficiency in fishes: causes, consequences, and potential solutions. <a href="https://link.springer.com/article/10.1007%2Fs11160-018-9538-x"><i>Reviews in Fish Biology and Fisheries</i> 28:865-886</a>.<br /><br /></li>
 
 Willoughby JR, <strong>Harder AM</strong>, Tennessen JA, Scribner KT, and Christie MR. 2018. Rapid genetic adaptation to a novel environment despite a genome-wide reduction in genetic diversity. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14726"><i>Molecular Ecology</i> 27:4041-4051</a>.<br /><br />
 
@@ -26,10 +27,10 @@ Dömel JS, Melzer RR, <strong>Harder AM</strong>, Mahon AR, and Leese F. 2017. N
 
 Dietz L, Arango C, Dömel JS, Halanych KM, <strong>Harder AM</strong>, Held C, Mahon AR, Mayer C, Melzer RR, Rouse GW, Weis A, Wilson NG, and Leese F. 2015. Regional differentiation and extensive hybridization between mitochondrial clades of the Southern Ocean giant sea spider Colossendeis megalonyx. <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsos.140424?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%3dpubmed"><i>Royal Society Open Science</i> 2:140424</a>.<br /><br />
 
-<h3>Educational resources (peer-reviewed)<h3><br /><br />
+<b>Educational resources (peer-reviewed)</b><br /><br />
 <strong>Harder AM</strong>, Willoughby JR, Doyle JM. 2018. Peppered moths and the Industrial Revolution: barking up the wrong tree? <a href="http://sciencecases.lib.buffalo.edu/cs/files/moths.pdf"><i>National Center for Case Study Teaching in Science</i></a>.<br /><br />
 
-Willoughby JR, <strong>Harder AM</strong>, Doyle JM. 2018. Fish out of (salt) water: adaptation of an ocean-going fish to freshwater environment. <a href="http://sciencecases.lib.buffalo.edu/cs/files/steelhead_adaptation.pdf"><i>National Center for Case Study Teaching in Science</i></a>.&lt;/p&gt;
+Willoughby JR, <strong>Harder AM</strong>, Doyle JM. 2018. Fish out of (salt) water: adaptation of an ocean-going fish to freshwater environment. <a href="http://sciencecases.lib.buffalo.edu/cs/files/steelhead_adaptation.pdf"><i>National Center for Case Study Teaching in Science</i></a>.</p>
 
 <center>
 <br />
@@ -43,5 +44,5 @@ Willoughby JR, <strong>Harder AM</strong>, Doyle JM. 2018. Fish out of (salt) wa
 
 <span class="image fit"><img src="assets/images/ice.JPG" alt="" /></span>
 &lt;/div&gt;
-</h3></h3></p></div>
+</li></ol></div>
 :ET
