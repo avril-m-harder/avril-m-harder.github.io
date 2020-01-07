@@ -6,7 +6,7 @@ description: PhD candidate in the Christie lab at Purdue University<br /><br />E
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://avril-m-harder.github.io" # the base hostname & protocol for your site
 author:
-street_address: 915 W. State St.
+street_address: Lilly Hall<br />915 W. State St.
 city: West Lafayette
 state: IN
 zip_code: 47907
