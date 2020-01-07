@@ -1,22 +1,28 @@
 ---
 layout: post
-title: CV
+title: Publications + CV
 nav-menu: true
 ---
 
 <!-- Main -->
 <div id="main" class="alt">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>CV</h1>
-		</header>
-
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
+<h2 id="content">Education</h2>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+
+<h2 id="content">Publications</h2>
+<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+
+<center>
+<ul class="actions fit small">
+<!-- 	<li><a href="#" class="button special fit small">Download AMH CV</a></li> -->
+<!-- 	<li><a href="#" class="button fit small">Download AMH CV</a></li> -->
+	<li><a href="#" class="button big">Download AMH CV</a></li>
+</ul>
+</center>
+
+
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Atlantic salmon
+title: Atlantic salmon research
 description: Lake Champlain population restoration
 image: assets/images/pic11.jpg
 nav-menu: true

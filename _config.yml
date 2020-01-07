@@ -1,8 +1,8 @@
 # site settings
 title: Avril M. Harder
-subtitle: Salmonid genomics
+subtitle: Evolutionary genomics
 email: avrilharder@gmail.com
-description: PhD candidate in the Christie lab at Purdue University<br />Evolution | Gene expression | Fishes
+description: PhD candidate in the Christie lab at Purdue University<br />Evolution |  Conservation | Fishes
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://avril-m-harder.github.io" # the base hostname & protocol for your site
 author:
