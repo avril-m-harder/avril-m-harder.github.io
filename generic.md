@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Atlantic salmon research
+layout: landing
 description: Lake Champlain population restoration
 image: assets/images/pic11.jpg
 nav-menu: true
