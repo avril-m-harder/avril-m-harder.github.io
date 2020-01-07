@@ -1,7 +1,7 @@
 # site settings
 title: Avril M. Harder
 subtitle: Evolutionary genomics
-email: avrilharder@gmail.com
+email: avrilharder [at] gmail [dot] com
 description: PhD candidate in the Christie lab at Purdue University<br /><br />Evolution |  Conservation | Fishes
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://avril-m-harder.github.io" # the base hostname & protocol for your site
