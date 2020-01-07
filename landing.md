@@ -1,7 +1,7 @@
 ---
-title: Previous work
+title: Antarctic sea spiders
 layout: landing
-description: Testing hypotheses of population connectivity in Antarctic sea spiders
+description: Testing hypotheses of population connectivity
 image: assets/images/spider.jpg
 nav-menu: true
 published: true
