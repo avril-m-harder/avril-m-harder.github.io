@@ -1,13 +1,4 @@
----
-title: Previous work
-layout: landing
-description: Testing hypotheses of population connectivity in Antarctic sea spiders
-image: assets/images/spider.jpg
-nav-menu: true
-published: true
----
-
-<!-- Main -->
+I"ú<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -51,3 +42,5 @@ published: true
 		</div>
 	</section>
 
+</section></div>
+:ET
