@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Avril M. Harder'
 description: null
-image: null
+image: assets/images/waterfront.jpg
 author: null
 show_tile: false
 ---
