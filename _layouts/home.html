@@ -30,20 +30,81 @@
         <!-- One -->
         {% include tiles.html %}
 
-        <!-- Two - can turn this back on to add a page (landing.md) -->
-<!--         <section id="two">
-            <div class="inner">
-                <header class="major">
-                    <h2>Massa libero</h2>
-                </header>
-                <p>{{ content }}</p>
-                <ul class="actions">
-                    <li><a href="landing.html" class="button next">Get Started</a></li>
-                </ul>
-            </div>
-        </section> -->
-
     </div>
+
+<!-- Contact -->
+<section id="contact">
+	<section class="inner">
+		<section>
+			<header class="major">
+				<h2>About Me</h2>
+			</header>
+			<p>I am primarily interested in using genomic data from fishes to answer evolutionary questions with conservation and management implications. Before arriving at Purdue in August 2015, I completed an MS in Biology at Central Michigan University where I studied Antarctic sea spider phylogeography.<br /><br />Outside of work, I enjoy canoeing, trying to catch as many fish species as I can, and spending time with my partner and dogs.</p>
+			<div class="box alt">
+				<div class="row 50% uniform">
+					<div class="4u"><span class="image fit"><img src="assets/images/me_deck.jpg" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="assets/images/me_fishing.jpg" alt="" /></span></div>
+					<div class="4u$"><span class="image fit"><img src="assets/images/dogs.jpg" alt="" /></span></div>
+				</div>
+			</div>
+		
+		</section>
+		<section class="inner">
+			<section>
+				<header class="major">
+					<h2><br />Contact</h2>
+				</header>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-envelope"></span>
+					<h3>Email</h3>
+					<span>{{ site.email }}</span>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-phone"></span>
+					<h3>Phone</h3>
+					<span>{{ site.phone }}</span>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-home"></span>
+					<h3>Address</h3>
+					<span>
+					{% if site.street_address %}
+					    {{ site.street_address }}<br />
+					{% endif %}
+					{% if site.city %}
+					    {{ site.city }},
+					{% endif %}
+					{% if site.state %}
+					    {{ site.state }} 
+					{% endif %}
+					{% if site.zip_code %}
+					    {{ site.zip_code }}<br />
+					{% endif %}
+					{% if site.country %}
+					    {{ site.country }}
+					{% endif %}
+					</span>
+				</div>
+			</section>
+		<section>
+			<center>
+			<ul class="icons">
+				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+				<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+			</ul>
+			</center>
+		</section>
+		</section>
+	</div>
+</section>
+
 
     {% include footer.html %}
 
