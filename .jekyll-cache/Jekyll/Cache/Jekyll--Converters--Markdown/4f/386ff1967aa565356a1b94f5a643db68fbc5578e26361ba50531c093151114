@@ -1,12 +1,4 @@
----
-title: Atlantic salmon research
-layout: landing
-description: Lake Champlain population restoration
-image: assets/images/parr.jpg
-nav-menu: true
----
-
-<!-- Main -->
+I")<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -64,3 +56,4 @@ Very briefly, we identified over 3,600 genes differentially expressed in respons
 </section>
 
 </div>
+:ET
