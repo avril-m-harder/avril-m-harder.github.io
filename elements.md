@@ -12,7 +12,7 @@ nav-menu: true
 <ul>
 <p><li>Purdue University, PhD Biological Sciences (August 2015 - present)<br />
 <li>Central Michigan University, MS Biology (August 2015)<br />
-<li>Eastern Illinois University, BS Biological Sciences (December 2012)<br />
+<li>Eastern Illinois University, BS Biological Sciences (December 2012)<br /><br />
 <span class="image fit"><img src="assets/images/waterfront.jpg" alt="" /></span>
 
 
