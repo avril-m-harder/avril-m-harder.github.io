@@ -18,6 +18,7 @@ nav-menu: true
 
 <h2 id="content">Publications</h2>
 <ol>
+<li>Willoughby JR, Sundaram M, <strong>Harder AM</strong>, Mathur S, Bylsma R, and DeWoody JA. Predictors of nuclear and mitochondrial genome divergence in congeneric vertebrates. (submitted)<br /><br /></li>
 <li>Yin X, Martinez AS, Perkins A, Sparks MM, <strong>Harder AM</strong>, Willoughby JR, Sepúlveda MS, and Christie MR. Incipient resistance to an effective pesticide results from genetic adaptation and the canalization of gene expression. <a href="https://www.biorxiv.org/content/10.1101/2019.12.19.882860v1"><i>bioRxiv</i> 882860 (submitted)</a><br /><br /></li>
 <li><strong>Harder AM</strong>, Willoughby JR, Ardren WR, and Christie MR. 2019. Among family variation in survival and gene expression uncovers adaptive genetic variation in a threatened fish. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.15334?author_access_token=-XDcx9R46qppwnBPZyABZIta6bR2k8jH0KrdpFOxC66cOyIjtA07Q-qM0QCJqG82HPl1rD93VUm42QPKHBuqiCXLsA6sEeq_6Dh-fYxL_PPFV2d5Ip0Ccf3OL8_7HuK5"><i>Molecular Ecology</i> (in press)</a>.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;Featured as a 'From the Cover' article<br /><br />
