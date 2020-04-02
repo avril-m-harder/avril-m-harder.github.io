@@ -24,7 +24,7 @@ nav-menu: true
 
 <div class="image right">
 	<div class="row 40% uniform">
-		<div class="$4u"><span class="image fit"><img src="{% link assets/images/mec_cover.pdf %}" alt="" style="display:block"/></span></div>
+		<div class="$4u"><span class="image fit"><img src="{% link assets/images/mec_cover.jpg %}" alt="" style="display:block"/></span></div>
 	</div>
 </div>
 
