@@ -28,7 +28,7 @@ nav-menu: true
 	</div>
 </div>
 
-<li><strong>Harder AM</strong>, Willoughby JR, Ardren WR, and Christie MR. 2019. Among family variation in survival and gene expression uncovers adaptive genetic variation in a threatened fish. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.15334?author_access_token=-XDcx9R46qppwnBPZyABZIta6bR2k8jH0KrdpFOxC66cOyIjtA07Q-qM0QCJqG82HPl1rD93VUm42QPKHBuqiCXLsA6sEeq_6Dh-fYxL_PPFV2d5Ip0Ccf3OL8_7HuK5"><i>Molecular Ecology</i> 29:1035-1049</a>.<br />
+<li><strong>Harder AM</strong>, Willoughby JR, Ardren WR, and Christie MR. 2019. Among family variation in survival and gene expression uncovers adaptive genetic variation in a threatened fish. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.15334?author_access_token=-XDcx9R46qppwnBPZyABZIta6bR2k8jH0KrdpFOxC66cOyIjtA07Q-qM0QCJqG82HPl1rD93VUm42QPKHBuqiCXLsA6sEeq_6Dh-fYxL_PPFV2d5Ip0Ccf3OL8_7HuK5"><i>Molecular Ecology</i> 29:1035-1049</a>.<br /><br />
 &nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;Featured as a 'From the Cover' article<br /><br />
 
 <li><strong>Harder AM</strong>, Ardren WR, Evans AN, Futia MH, Kraft CE, Marsden JE, Richter CA, Rinchard J, Tillitt DE, and Christie MR. 2018. Thiamine deficiency in fishes: causes, consequences, and potential solutions. <a href="https://link.springer.com/article/10.1007%2Fs11160-018-9538-x"><i>Reviews in Fish Biology and Fisheries</i> 28:865-886</a>.<br /><br /></li>
