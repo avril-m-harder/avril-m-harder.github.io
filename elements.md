@@ -12,9 +12,10 @@ nav-menu: true
 <!-- <p> -->
 <ul class="alt">
 <!-- <ul> -->
-	<li>Purdue University, PhD Biological Sciences (August 2015 - present)<br />
-	<li>Central Michigan University, MS Biology (August 2015)<br />
+	<li>Purdue University, PhD Biological Sciences (August 2015 - present)</li>
+	<li>Central Michigan University, MS Biology (August 2015)</li>
 	<li>Eastern Illinois University, BS Biological Sciences (December 2012)</li>
+	</ul>
 	<br /><br />
 <span class="image fit"><img src="assets/images/waterfront.jpg" alt="" /></span>
 
