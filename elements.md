@@ -52,9 +52,14 @@ Featured as a 'From the Cover' article and highlighted in a <a href="https://onl
 <br />
 
 <ul class="actions fit small">
-<!-- 	<li><a href="#" class="button special fit small">Download AMH CV</a></li> -->
-<!-- 	<li><a href="#" class="button fit small">Download AMH CV</a></li> -->
+<!-- 
+	<li><a href="#" class="button special fit small">Download AMH CV</a></li>
+	<br /><br />
+	<li><a href="#" class="button fit small">Download AMH CV</a></li>
+	<br /><br />
+ -->
 	<li><a href="{{ site.baseurl }}/assets/images/amh_cv.pdf" class="button big">Download AMH CV</a></li>
+ 	<li><a href="https://scholar.google.com/citations?user=uyxk3voAAAAJ&hl=en" class="button big">Google Scholar Profile</a></li>
 </ul>
 </center>
 
