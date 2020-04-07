@@ -15,6 +15,7 @@ nav-menu: true
 	<li>Purdue University, PhD Biological Sciences (August 2015 - present)</li>
 	<li>Central Michigan University, MS Biology (August 2015)</li>
 	<li>Eastern Illinois University, BS Biological Sciences (December 2012)</li>
+	<li>Olney Central College, ASA Science and Arts (May 2010)</li>
 	</ul>
 	<br /><br />
 <span class="image fit"><img src="assets/images/waterfront.jpg" alt="" /></span>
