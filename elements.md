@@ -33,7 +33,7 @@ nav-menu: true
 	</div>
 </div>
 
-<li><strong>Harder AM</strong>, Willoughby JR, Ardren WR, and Christie MR. 2019. Among family variation in survival and gene expression uncovers adaptive genetic variation in a threatened fish. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.15334?author_access_token=-XDcx9R46qppwnBPZyABZIta6bR2k8jH0KrdpFOxC66cOyIjtA07Q-qM0QCJqG82HPl1rD93VUm42QPKHBuqiCXLsA6sEeq_6Dh-fYxL_PPFV2d5Ip0Ccf3OL8_7HuK5"><i>Molecular Ecology</i> 29:1035-1049</a>.<br /><br />
+<li><strong>Harder AM</strong>, Willoughby JR, Ardren WR, and Christie MR. 2020. Among family variation in survival and gene expression uncovers adaptive genetic variation in a threatened fish. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.15334?author_access_token=-XDcx9R46qppwnBPZyABZIta6bR2k8jH0KrdpFOxC66cOyIjtA07Q-qM0QCJqG82HPl1rD93VUm42QPKHBuqiCXLsA6sEeq_6Dh-fYxL_PPFV2d5Ip0Ccf3OL8_7HuK5"><i>Molecular Ecology</i> 29:1035-1049</a>.<br /><br />
 
 Featured as a 'From the Cover' article and highlighted in a <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.15389">Perspective piece</a> by Dr. Mariah Meek<br /><br />
 
