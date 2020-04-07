@@ -12,10 +12,10 @@ nav-menu: true
 <!-- <p> -->
 <ul class="alt">
 <!-- <ul> -->
-	<li>Purdue University, PhD Biological Sciences (August 2015 - present)</li>
-	<li>Central Michigan University, MS Biology (August 2015)</li>
-	<li>Eastern Illinois University, BS Biological Sciences (December 2012)</li>
-	<li>Olney Central College, ASA Science and Arts (May 2010)</li>
+	<li><b>PhD Biological Sciences</b>, Purdue University (August 2015 - present)</li>
+	<li><b>MS Biology</b>, Central Michigan University (August 2015)</li>
+	<li><b>BS Biological Sciences</b>, Eastern Illinois University (December 2012)</li>
+	<li><b>ASA Science and Arts</b>, Olney Central College (May 2010)</li>
 	</ul>
 	<br /><br />
 <span class="image fit"><img src="assets/images/waterfront.jpg" alt="" /></span>
