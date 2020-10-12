@@ -60,7 +60,7 @@ Very briefly, we identified over 3,600 genes differentially expressed in respons
 		</ul>
 	</div>
 	<span class="image fit"><img src="assets/images/graphical_abstract-png.png" alt="" width="100" /></span>
-<br />[Cover image photo credit: W. Ardren. Fry close-up photo credit: E. Lehnert. Graphical abstract and drawings: <a href="https://www.gabrielasincich.com/news">G. Sincich<\a>]
+<br />[Cover image photo credit: W. Ardren. Fry close-up photo credit: E. Lehnert. Graphical abstract and drawings: <a href="https://www.gabrielasincich.com/news">G. Sincich</a>]
 </section>
 
 </div>
