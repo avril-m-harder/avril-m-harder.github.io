@@ -25,7 +25,7 @@ nav-menu: true
 <ol>
 <li>Willoughby JR, <strong>Harder AM</strong>, Sundaram M, Mathur S, Bylsma R, and DeWoody JA. Vertebrate divergence estimates vary more than two-fold among lineages but far less 	than expected between nuclear and mitochondrial genomes. (submitted)<br /><br /></li>
 <li>Willoughby JR, Sundaram M, <strong>Harder AM</strong>, Mathur S, Bylsma R, and DeWoody JA. Predictors of nuclear and mitochondrial genome divergence in congeneric vertebrates. (submitted)<br /><br /></li>
-<li>Yin X, Martinez AS, Perkins A, Sparks MM, <strong>Harder AM</strong>, Willoughby JR, Sepúlveda MS, and Christie MR. Incipient resistance to an effective pesticide results from genetic adaptation and the canalization of gene expression. <a href="https://www.biorxiv.org/content/10.1101/2019.12.19.882860v1"><i>bioRxiv</i> 882860 (submitted)</a><br /><br /></li>
+<li>Yin X, Martinez AS, Perkins A, Sparks MM, <strong>Harder AM</strong>, Willoughby JR, Sepúlveda MS, and Christie MR. Incipient resistance to an effective pesticide results from genetic adaptation and the canalization of gene expression. <a href="https://www.biorxiv.org/content/10.1101/2019.12.19.882860v1"><i>Evolutionary Applications</i> (in press)</a><br /><br /></li>
 
 <div class="image right">
 	<div class="row 40% uniform">
