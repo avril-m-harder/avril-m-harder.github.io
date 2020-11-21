@@ -12,7 +12,7 @@ nav-menu: true
 <!-- <p> -->
 <ul class="alt">
 <!-- <ul> -->
-	<li><b>PhD Biological Sciences</b>, Purdue University (August 2015 - present)</li>
+	<li><b>PhD Biological Sciences</b>, Purdue University (August 2015 - December 2020)</li>
 	<li><b>MS Biology</b>, Central Michigan University (August 2015)</li>
 	<li><b>BS Biological Sciences</b>, Eastern Illinois University (December 2012)</li>
 	<li><b>ASA Science and Arts</b>, Olney Central College (May 2010)</li>
