@@ -2,20 +2,20 @@
 title: Avril M. Harder
 subtitle: Evolutionary genomics
 email: avrilharder [at] gmail [dot] com
-description: PhD candidate in the Christie lab at Purdue University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br /><br />Evolution |  Conservation | Genomics | Transcriptomics
+description: NSF Postdoctoral Fellow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br /><br />Evolution |  Conservation | Genomics 
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://avril-m-harder.github.io" # the base hostname & protocol for your site
 author:
-street_address: Lilly Hall<br />915 W. State St.
-city: West Lafayette
-state: IN
-zip_code: 47907
+street_address: Forestry and Wildlife Sciences Bldg.<br />602 Duncan Dr.
+city: Auburn
+state: AL
+zip_code: 36849
 country: United States of America
 phone: (773) 688-8564
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 5
 
 # social settings
 500px_url:
