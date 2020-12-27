@@ -15,7 +15,7 @@ phone: (773) 688-8564
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 9
+tiles-count: 5
 
 # social settings
 500px_url:
