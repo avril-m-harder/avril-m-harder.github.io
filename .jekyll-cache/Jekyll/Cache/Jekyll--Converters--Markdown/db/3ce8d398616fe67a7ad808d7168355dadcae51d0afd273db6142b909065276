@@ -1,10 +1,4 @@
----
-layout: post
-title: Publications + CV
-nav-menu: true
----
-
-<!-- Main -->
+I"<!-- Main -->
 <div id="main" class="alt">
 
 <!-- Content -->
@@ -28,7 +22,7 @@ nav-menu: true
 
 <div class="image right">
 	<div class="row 40% uniform">
-		<div class="$4u"><span class="image fit"><img src="assets/images/mec_cover.jpg" alt="" style="display:block"/></span></div>
+		<div class="$4u"><span class="image fit"><img src="assets/images/mec_cover.jpg" alt="" style="display:block" /></span></div>
 	</div>
 </div>
 
@@ -44,15 +38,15 @@ Featured as a 'From the Cover' article and highlighted in a <a href="https://onl
 
 <li><strong>Harder AM</strong>, Halanych KM, and Mahon AR. 2016. Diversity and distribution within the sea spider genus Pallenopsis(Chelicerata: Pycnogonida) in the Western Antarctic as revealed by mitochondrial DNA. <a href="https://link.springer.com/article/10.1007%2Fs00300-015-1823-8"><i>Polar Biology</i> 39:677-688</a>.<br /><br /></li>
 
-<li>Dietz L, Arango C, Dömel JS, Halanych KM, <strong>Harder AM</strong>, Held C, Mahon AR, Mayer C, Melzer RR, Rouse GW, Weis A, Wilson NG, and Leese F. 2015. Regional differentiation and extensive hybridization between mitochondrial clades of the Southern Ocean giant sea spider Colossendeis megalonyx. <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsos.140424?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed"><i>Royal Society Open Science</i> 2:140424</a>.<br /><br /></li>
+<li>Dietz L, Arango C, Dömel JS, Halanych KM, <strong>Harder AM</strong>, Held C, Mahon AR, Mayer C, Melzer RR, Rouse GW, Weis A, Wilson NG, and Leese F. 2015. Regional differentiation and extensive hybridization between mitochondrial clades of the Southern Ocean giant sea spider Colossendeis megalonyx. <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsos.140424?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%3dpubmed"><i>Royal Society Open Science</i> 2:140424</a>.<br /><br /></li>
 
 <b>Submitted</b><br /><br />
 
-<li><strong>Harder AM</strong> and Christie MR. Genomic signatures of adaptation to novel environments: hatchery and life-history associated loci in landlocked and anadromous Atlantic salmon (<i>Salmo salar</i>).<br /><br /></li>
+<li><strong>Harder AM</strong> and Christie MR. Genomic signatures of adaptation to novel environments: hatchery and life-history associated loci in landlocked and anadromous Atlantic salmon (<i>Salmo salar</i>). (submitted)<br /><br /></li>
 
-<li>Willoughby JR, <strong>Harder AM</strong>, Sundaram M, Mathur S, Bylsma R, and DeWoody JA. Vertebrate divergence estimates vary more than two-fold among lineages but far less 	than expected between nuclear and mitochondrial genomes.<br /><br /></li>
+<li>Willoughby JR, <strong>Harder AM</strong>, Sundaram M, Mathur S, Bylsma R, and DeWoody JA. Vertebrate divergence estimates vary more than two-fold among lineages but far less 	than expected between nuclear and mitochondrial genomes. (submitted)<br /><br /></li>
 
-<li>Willoughby JR, Sundaram M, <strong>Harder AM</strong>, Mathur S, Bylsma R, and DeWoody JA. Predictors of nuclear and mitochondrial genome divergence in congeneric vertebrates.<br /><br /></li>
+<li>Willoughby JR, Sundaram M, <strong>Harder AM</strong>, Mathur S, Bylsma R, and DeWoody JA. Predictors of nuclear and mitochondrial genome divergence in congeneric vertebrates. (submitted)<br /><br /></li>
 
 <b>Educational resources (peer-reviewed)</b><br /><br />
 <li><strong>Harder AM</strong>, Willoughby JR, Doyle JM. 2018. Peppered moths and the Industrial Revolution: barking up the wrong tree? <a href="http://sciencecases.lib.buffalo.edu/cs/files/moths.pdf"><i>National Center for Case Study Teaching in Science</i></a>.<br /><br /></li>
@@ -70,16 +64,18 @@ Featured as a 'From the Cover' article and highlighted in a <a href="https://onl
 	<li><a href="#" class="button fit small">Download AMH CV</a></li>
 	<br /><br />
  -->
-	<li><a href="{{ site.baseurl }}/assets/images/amh_cv.pdf" class="button default">Download AMH CV</a></li>
+	<li><a href="/assets/images/amh_cv.pdf" class="button default">Download AMH CV</a></li>
 </ul>
 </center>
 
 <center>	
 <ul class="actions fit small">
- 	<li><a href="https://scholar.google.com/citations?user=uyxk3voAAAAJ&hl=en" class="button default">Google Scholar Profile</a></li>
+ 	<li><a href="https://scholar.google.com/citations?user=uyxk3voAAAAJ&amp;hl=en" class="button default">Google Scholar Profile</a></li>
 </ul>
 
 </center>
 
 <span class="image fit"><img src="assets/images/ice.JPG" alt="" /></span>
 
+</li></ol></div>
+:ET
