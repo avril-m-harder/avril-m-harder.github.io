@@ -23,7 +23,7 @@ nav-menu: true
 
 <h2 id="content">Publications</h2>
 <ol>
-<li>DeWoody JA, <strong>Harder AM</strong>, Mathur S, and Willoughby JR. The long-standing significance of genetic diversity in conservation. <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.16051"><i>Molecular Ecology</i> (in press)</a><br /><br /></li>
+<li>DeWoody JA, <strong>Harder AM</strong>, Mathur S, and Willoughby JR. The long-standing significance of genetic diversity in conservation. <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.16051"><i>Molecular Ecology</i> 30:4147-4154.</a><br /><br /></li>
 <li>Yin X, Martinez AS, Perkins A, Sparks MM, <strong>Harder AM</strong>, Willoughby JR, Sepúlveda MS, and Christie MR. Incipient resistance to an effective pesticide results from genetic adaptation and the canalization of gene expression. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13166"><i>Evolutionary Applications</i> 14:847-859.</a><br /><br /></li>
 
 <div class="image right">
